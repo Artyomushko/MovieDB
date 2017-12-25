@@ -1,0 +1,17 @@
+<resources>
+
+<style name="AppTheme" parent="Theme.AppCompat">
+    <item name="colorPrimary">@color/color_background</item>
+    <item name="colorPrimaryDark">@color/dark_green</item>
+    <item name="colorAccent">@color/dark_green</item>
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+
+</style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/yellow</item>
+    </style>
+
+</resources>

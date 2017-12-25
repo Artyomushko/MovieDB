@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray">#494e4c</color>
+    <color name="gray_next">#b88e9291</color>
+    <color name="black">#000</color>
+    <color name="theme_color">#9829492a</color>
+    <color name="white">#FFF</color>
+    <color name="green">#31b657</color>
+    <color name="dark_green">#e9132d19</color>
+    <color name="color_background">#647f8b</color>
+    <color name="color_background_details">#f1a1b1b7</color>
+    <color name="color_background_related_movies">#f190a198</color>
+    <color name="color_floating_button">#f0105a25</color>
+    <color name="color_buttor_more_related_movies">#d01f5e3d</color>
+    <color name="yellow">#fffb00</color>
+    <color name="background_for_top_info_movie">#644a554a</color>
+    <color name="background_for_bottom_info_movie">#e59aa79c</color>
+    <color name="background_for_bottom_cast_info">#e8848f85</color>
+    <color name="navigation_view_color">#f7214a27</color>
+    <color name="header_nav_menu">#f72b604b</color>
+
+</resources>
